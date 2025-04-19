@@ -1,4 +1,4 @@
-# Managing-Users-and-Groups-on-an-Amazon-Linux-EC2-Instance
+# Launching an Amazon EC2 instance
 
 
 ![EC2Instance (1)](https://github.com/user-attachments/assets/a0a72f38-3477-4027-9dc0-c17f0692fb61)
